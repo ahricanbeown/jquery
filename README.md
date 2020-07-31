@@ -1,2 +1,2 @@
-# -jquery-
+# jquery
 仿jQuery
